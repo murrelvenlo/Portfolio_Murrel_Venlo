@@ -1,0 +1,99 @@
+nav ul li a {
+  background-color: transparent;
+  font-weight: bold;
+}
+
+nav ul li .nav-link {
+  color: #fff !important;
+}
+
+.deel1 {
+  background-image: url("../dist/images/bureau.jpg");
+  /*background-color: #002b36;*/
+  /*background-size: cover;*/
+  background: linear-gradient(to top, #313132, #161618);
+  height: 100vh;
+  min-width: 100%;
+  background-position: center;
+}
+
+/* .glas{
+    display: inline-block;
+    background: rgb(255, 255, 255, 0.2);
+    padding: 3em;
+    border-radius: 3em;
+    position: relative;
+    z-index: 1;
+    backdrop-filter: blur(40px);
+}*/
+h1 {
+  align-items: middle;
+  color: #ffffff;
+}
+
+i {
+  color: #fff;
+  font-size: 50px;
+  padding-top: 50%px;
+}
+
+.gegevens {
+  text-align: right;
+  transform: translateY(180px);
+}
+
+.hoofd {
+  /*font-family: 'Anton', sans-serif;*/
+  /*font-family: 'Alfa Slab One', cursive;*/
+  font-family: 'Fjalla One', sans-serif;
+  font-weight: bold;
+}
+
+.ik {
+  margin-top: 10px;
+}
+
+.probeersel {
+  background-color: #fff !important;
+  height: 650px;
+  min-width: 100%;
+  background-color: #fff;
+}
+
+.c-gemeen {
+  background: white;
+  padding: 3em;
+  border-radius: 1rem;
+  position: relative;
+  background: linear-gradient(to right bottom, rgba(211, 211, 211, 0.5), rgba(211, 211, 211, 0.2));
+  /*background: linear-gradient(
+        to right bottom,
+         rgba(255, 255, 255, 0.7),
+          rgba(255, 255, 255, 0.3));*/
+}
+
+.box {
+  /*background-color: rgba(blue, .08) /*rgba(green, .08);*/
+  background-color: rgba(0, 0, 255, 0.08);
+  margin-bottom: 1rem;
+  padding-bottom: 50px;
+  justify-content: center;
+}
+
+.box h2 {
+  color: #000;
+}
+
+.mate {
+  width: 10px;
+  height: 10px;
+}
+
+.deel3 {
+  height: 600px;
+}
+
+footer {
+  background-color: #157DEC;
+  height: 250px;
+}
