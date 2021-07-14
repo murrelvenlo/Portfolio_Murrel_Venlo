@@ -1,4 +1,5 @@
-# Website portfolio in Sass-BS5 met javaScript en hier en daar wat jQuery-project
+# Mijn Website portfolio in Sass-BS5 met javaScript en hier en daar wat jQuery
+
 In deze website probeer ik mijn theorie en wat ik heb bijgeleerd van het afgelopen schooljaar in het eerste jaar, Graduaat programeren naar voren te brengen.
 
 <p align="center">
