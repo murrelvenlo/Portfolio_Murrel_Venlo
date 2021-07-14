@@ -1,9 +1,11 @@
-# 1ITF Sass-BS4-project
-Dit is een basiswebsite voor de les **Sass** met **Bootstrap 4** in 1ITF van de Thomas More Hogeschool (campus Geel).
+# Website portfolio in Sass-BS5 met javaScript en hier en daar wat jQuery-project
+In deze website probeer ik mijn theorie en wat ik heb bijgeleerd van het afgelopen schooljaar in het eerste jaar, Graduaat programeren naar voren te brengen.
 
 <p align="center">
-    <img src="https://www.thomasmore.be/themes/wundertheme/logo.svg" alt="Thomasm More Kempen" width="300" />
+    <img src="LogoMj.png" alt="Murrel Venlo" />
 </p>
+
+## De resterende info is alles wat ik heb bijgeleerd in het schooljaar 2019/2020 van ITF1
 
 ## Basisvereisten (eenmalig te installeren)
 
