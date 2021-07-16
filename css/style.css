@@ -1,3 +1,7 @@
+nav {
+  margin-right: 100px;
+}
+
 nav ul li a {
   background-color: transparent;
   font-weight: bold;
@@ -91,6 +95,32 @@ i {
 
 .deel3 {
   height: 600px;
+}
+
+.achtergrond {
+  height: 100vh;
+}
+
+.achtergrond .voorgrond {
+  background-color: rgba(220, 220, 220, 0.5);
+  transform: translateY(50%);
+  border-radius: 3rem;
+}
+
+.achtergrond .voorgrond .lijst {
+  text-align: center;
+  font-weight: bold;
+  /*transform: translateY(60%);*/
+  padding: 20px;
+}
+
+.achtergrond .voorgrond .lijst h1 {
+  padding: 10px;
+  line-height: 1.5;
+}
+
+.achtergrond .voorgrond .lijst h1 a {
+  text-decoration: none;
 }
 
 footer {
