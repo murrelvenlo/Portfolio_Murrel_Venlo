@@ -21,6 +21,11 @@ nav ul li .nav-link {
   background-position: center;
 }
 
+.deel1 h1 {
+  align-items: middle;
+  color: #ffffff;
+}
+
 /* .glas{
     display: inline-block;
     background: rgb(255, 255, 255, 0.2);
@@ -30,11 +35,6 @@ nav ul li .nav-link {
     z-index: 1;
     backdrop-filter: blur(40px);
 }*/
-h1 {
-  align-items: middle;
-  color: #ffffff;
-}
-
 i {
   color: #fff;
   font-size: 50px;
@@ -57,44 +57,48 @@ i {
   margin-top: 10px;
 }
 
-.probeersel {
+.deel2 {
+  height: 500px;
+}
+
+.deel3 {
   background-color: #fff !important;
-  height: 650px;
+  height: 700px;
   min-width: 100%;
   background-color: #fff;
 }
 
-.c-gemeen {
+.deel3 .box {
+  /*background-color: rgba(blue, .08) /*rgba(green, .08);*/
+  /*background-color: rgba(blue, .08);*/
+  /* background: linear-gradient(
+                to right bottom,
+                 rgba(211,211,211, 0.5),
+                  rgba(211,211,211, 0.2));*/
+  background-color: rgba(211, 211, 211, 0.1);
+  /*padding-bottom: 50px;*/
+  justify-content: center;
+}
+
+.deel3 .box h2 {
+  color: #000;
+}
+
+.deel3 .box .mate {
+  /*width: 10px !important;*/
+  /*height: 10px !important;*/
+}
+
+.deel3 .box .mate .c-gemeen {
   background: white;
   padding: 3em;
   border-radius: 1rem;
   position: relative;
-  background: linear-gradient(to right bottom, rgba(211, 211, 211, 0.5), rgba(211, 211, 211, 0.2));
+  background: linear-gradient(to right bottom, rgba(105, 105, 105, 0.8), rgba(105, 105, 105, 0.2));
   /*background: linear-gradient(
-        to right bottom,
-         rgba(255, 255, 255, 0.7),
-          rgba(255, 255, 255, 0.3));*/
-}
-
-.box {
-  /*background-color: rgba(blue, .08) /*rgba(green, .08);*/
-  background-color: rgba(0, 0, 255, 0.08);
-  margin-bottom: 1rem;
-  padding-bottom: 50px;
-  justify-content: center;
-}
-
-.box h2 {
-  color: #000;
-}
-
-.mate {
-  width: 10px;
-  height: 10px;
-}
-
-.deel3 {
-  height: 600px;
+                to right bottom,
+                 rgba(255, 255, 255, 0.7),
+                  rgba(255, 255, 255, 0.3));*/
 }
 
 .achtergrond {
