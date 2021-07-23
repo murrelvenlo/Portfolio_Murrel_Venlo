@@ -14,8 +14,8 @@ nav ul li .nav-link {
 .deel1 {
   background-image: url("../dist/images/bureau.jpg");
   /*background-color: #002b36;*/
-  /*background-size: cover;*/
-  background: linear-gradient(to top, #313132, #161618);
+  background-size: cover;
+  /*background: linear-gradient(to top, #313132, #161618);*/
   height: 100vh;
   min-width: 100%;
   background-position: center;
@@ -46,11 +46,10 @@ i {
   transform: translateY(180px);
 }
 
-.hoofd {
-  /*font-family: 'Anton', sans-serif;*/
-  /*font-family: 'Alfa Slab One', cursive;*/
+.gegevens .hoofd {
   font-family: 'Fjalla One', sans-serif;
   font-weight: bold;
+  padding-top: 20px;
 }
 
 .ik {
@@ -58,7 +57,7 @@ i {
 }
 
 .deel2 {
-  height: 500px;
+  height: 400px;
 }
 
 .deel3 {
@@ -94,7 +93,7 @@ i {
   padding: 3em;
   border-radius: 1rem;
   position: relative;
-  background: linear-gradient(to right bottom, rgba(105, 105, 105, 0.8), rgba(105, 105, 105, 0.2));
+  background: linear-gradient(to right bottom, rgba(105, 105, 105, 0.8), rgba(105, 105, 105, 0.5));
   /*background: linear-gradient(
                 to right bottom,
                  rgba(255, 255, 255, 0.7),
@@ -128,6 +127,7 @@ i {
 }
 
 footer {
-  background-color: #157DEC;
+  /*background-color: $kleur_footer;*/
+  background-color: rgba(105, 105, 105, 0.9);
   height: 250px;
 }
